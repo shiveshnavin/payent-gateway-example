@@ -1,0 +1,25 @@
+{
+  "name": "payment-gateway-example",
+  "version": "1.0.0",
+  "description": "payment-gateway-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiveshnavin/payment-gateway-example.git"
+  },
+  "keywords": [ 
+  ],
+  "engines": {
+    "node": "10.3.0"
+  },
+  "author": "Shivesh",
+  "license": "ISC",
+  "homepage": "https://github.com/shiveshnavin/payment-gateway-example#readme",
+  "dependencies": { 
+    "express": "^4.16.4",  
+    "node-paytmpg": "^1.0.3", 
+  }
+}
